@@ -1,7 +1,7 @@
-pyrebase4
-requests 
-protobuf
-asn1crypto
-certvalidator
-chily
-sgx-ias-structs
+protobuf>=3.11.0
+pyrebase4>=4.3.0
+requests>=2.22.0
+asn1crypto>=1.20
+certvalidator>=0.11.1
+sgx-ias-structs>=0.1.1
+chily>=0.2.0
